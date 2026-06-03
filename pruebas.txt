@@ -1,0 +1,8 @@
+Ruta: http://localhost:3000
+Al acceder a esta dirección, el servidor responde con el mensaje "Servidor activo", indicando que la aplicación está funcionando correctamente.
+
+Ruta: http://localhost:3000/saludo
+Al ingresar a esta ruta, el servidor muestra el mensaje "Hola comunidad", demostrando el funcionamiento de una ruta específica.
+
+Ruta: http://localhost:3000/mensaje/juan
+Al acceder a esta ruta, el servidor captura el nombre enviado en la URL y responde con el mensaje "Hola juan". Esta ruta utiliza parámetros dinámicos para personalizar la respuesta.
